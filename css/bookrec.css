@@ -1,0 +1,59 @@
+div {
+  /*border: 2px solid purple;*/
+}
+
+.h1 {
+    font-size: 70px;
+            font-family: 'Itim', cursive; /* ใช้ฟอนต์ Mali */
+            font-weight: 500; /* น้ำหนัก Medium */
+        
+}
+
+.p {
+    font-size: 30px;
+    font-family: 'Mali', sans-serif; /* ใช้ฟอนต์ Mali */
+}
+
+.ppp {
+    font-family: 'Itim', cursive;
+    font-size: 35px;
+}
+.nav {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff8fa;
+}
+
+.tab-bg
+{
+  background-color: #E4A0b7
+}
+
+.book-bg
+{
+  background-color: #FFFAEE;
+}
+
+.indent {
+  text-indent: 30px;  /* ย่อหน้าเข้ามาจากขอบซ้าย 30px ในย่อหน้าแรก */
+}
+
+.font{
+  color: #A8C080;
+  font-family: 'Mali', sans-serif;
+  font-size: 35px;
+}
+
+.content-bg{
+  background-color: #F5C6D6;
+}
+
+p {
+    font-family: 'Mali', sans-serif;
+    font-size: 18px;
+}
+
+.pp {
+    font-family: 'Mali', sans-serif;
+    font-size: 18px;
+}
